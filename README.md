@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)]
 <h1 align="center">Hi 👋, I'm Kirankumar</h1>
 <h3 align="center">A passionate data buff from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
