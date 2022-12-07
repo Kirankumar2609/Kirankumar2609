@@ -2,9 +2,9 @@
 <h3 align="center">A passionate data buff from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [NLP | ML](https://inxiteout.ai/)
+- 🔭 I’m currently working on [AI | ML | NLP](https://inxiteout.ai/)
 
-- 💬 Ask me about **Python, ML**
+- 💬 Ask me about **Data Science, Python**
 
 - 📫 How to reach me **amk260993@gmail.com**
 
